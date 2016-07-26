@@ -1,0 +1,95 @@
+
+Gurobi 6.5.2 (mac64) logging started Mon Jul 25 11:53:28 2016
+
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range    [5e+00, 7e+00]
+  Objective range [3e+03, 4e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [5e+00, 1e+01]
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.875000e+00   0.000000e+00      0s
+       1    6.0000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.01 seconds
+Optimal objective  6.000000000e+03
+
+Gurobi 6.5.2 (mac64) logging started Mon Jul 25 16:48:13 2016
+
+Optimize a model with 2 rows, 2 columns and 4 nonzeros
+Coefficient statistics:
+  Matrix range    [5e+00, 7e+00]
+  Objective range [3e+03, 4e+03]
+  Bounds range    [0e+00, 0e+00]
+  RHS range       [5e+00, 1e+01]
+Presolve time: 0.00s
+Presolved: 2 rows, 2 columns, 4 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   1.875000e+00   0.000000e+00      0s
+       1    6.0000000e+03   0.000000e+00   0.000000e+00      0s
+
+Solved in 1 iterations and 0.01 seconds
+Optimal objective  6.000000000e+03
+
+Gurobi 6.5.2 (mac64) logging started Mon Jul 25 16:48:54 2016
+
+Optimize a model with 357 rows, 729 columns and 2949 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [0e+00, 0e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 1e+00]
+Found heuristic solution: objective 0
+Presolve removed 357 rows and 729 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+
+Gurobi 6.5.2 (mac64) logging started Mon Jul 25 16:49:21 2016
+
+Optimize a model with 357 rows, 729 columns and 2949 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [0e+00, 0e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 1e+00]
+Found heuristic solution: objective 0
+Presolve removed 357 rows and 729 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+
+Gurobi 6.5.2 (mac64) logging started Mon Jul 25 16:50:02 2016
+
+Optimize a model with 46000 rows, 1000000 columns and 4006000 nonzeros
+Coefficient statistics:
+  Matrix range    [1e+00, 1e+00]
+  Objective range [0e+00, 0e+00]
+  Bounds range    [1e+00, 1e+00]
+  RHS range       [1e+00, 1e+00]
+Presolve removed 46000 rows and 1000000 columns
+Presolve time: 3.40s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 13.76 seconds
+Thread count was 1 (of 4 available processors)
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 0.000000000000e+00, best bound 0.000000000000e+00, gap 0.0%
+
+Gurobi 6.5.2 (mac64) logging started Mon Jul 25 20:12:21 2016
+
